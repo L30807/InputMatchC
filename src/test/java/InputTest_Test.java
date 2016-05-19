@@ -17,7 +17,7 @@ public class InputTest_Test {
 	//If correct
 		@Test
 		public void Test1() {
-			assertFasle(InputTest.test("Hello"));
+			assertTrue(InputTest.test("Hello"));
 		}
 
 }
